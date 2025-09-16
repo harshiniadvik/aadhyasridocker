@@ -8,4 +8,3 @@ COPY . .
 RUN javac samplename.java
 # Command to run the program
 CMD ["java", "samplename"]
-
